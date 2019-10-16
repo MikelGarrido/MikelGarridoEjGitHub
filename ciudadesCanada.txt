@@ -10,6 +10,7 @@ Vancouver---->Estadio de futbol
 	Queen Elizabeth Park, British Columbia
 	Mundo de la ciencia
 Toronto
+	base militar
 Calgary
 Nieve
 Toronto
@@ -18,3 +19,4 @@ Quebec---->Molino eólico.
 Hamilton
 Kitchener
 
+	Circuito de carreras
