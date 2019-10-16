@@ -1,5 +1,4 @@
 Ottawa
-Toronto
 Calgary
 Quebec---->Molino eólico.
 Hamilton
@@ -17,6 +16,7 @@ Vancouver
 	Queen Elizabeth Park, British Columbia
 	Mundo de la ciencia
 Toronto
-Calgary
+	base militar
 Nieve
+Circuito de carreras
 
