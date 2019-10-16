@@ -12,3 +12,10 @@ Vancouver
 Toronto
 Calgary
 Nieve
+Vancouver---->Estadio de futbol
+Toronto
+Calgary
+Quebec---->Molino eólico.
+Hamilton
+Kitchener
+
