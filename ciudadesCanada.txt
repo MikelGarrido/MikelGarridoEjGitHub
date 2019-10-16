@@ -1,5 +1,6 @@
 Ottawa
 Vancouver
 Toronto
+	base militar
 Calgary
 	Circuito de carreras
