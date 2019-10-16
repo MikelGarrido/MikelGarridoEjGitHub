@@ -1,5 +1,5 @@
 Ottawa
-Vancouver
+Vancouver---->Estadio de futbol
 	Parque Stanley
 	Puente colgante de Capilano
 	Granville Island
@@ -12,7 +12,6 @@ Vancouver
 Toronto
 Calgary
 Nieve
-Vancouver---->Estadio de futbol
 Toronto
 Calgary
 Quebec---->Molino eólico.
