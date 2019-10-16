@@ -6,6 +6,9 @@ Kitchener
 Fulup
 Vancouver
         Estadio de futbol
+
+Vancouver---->Estadio de futbol
+
 	Parque Stanley
 	Puente colgante de Capilano
 	Granville Island
@@ -17,6 +20,19 @@ Vancouver
 	Mundo de la ciencia
 Toronto
 	base militar
+
 Nieve
 Circuito de carreras
+
+
+Calgary
+Modificación
+Nieve
+Toronto
+Calgary
+Quebec---->Molino eólico.
+Hamilton
+Kitchener
+
+	Circuito de carreras
 
