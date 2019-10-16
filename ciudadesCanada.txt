@@ -1,8 +1,22 @@
 Ottawa
-Vancouver---->Estadio de futbol
 Toronto
 Calgary
 Quebec---->Molino eólico.
 Hamilton
 Kitchener
 Fulup
+Vancouver
+        Estadio de futbol
+	Parque Stanley
+	Puente colgante de Capilano
+	Granville Island
+	Gastown
+	Canada Place
+	Acuario de Vancouver
+	Bahía Inglesa
+	Queen Elizabeth Park, British Columbia
+	Mundo de la ciencia
+Toronto
+Calgary
+Nieve
+
